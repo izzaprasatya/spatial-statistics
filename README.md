@@ -5,8 +5,8 @@ A brief note about spatial statistics covering:
    - Median Center
    - Central Feature
 2. Spatial Dispersion
-   - Standard Deviation Ellipse
-   - Standard Distance
+   - Standard Distance (SD)
+   - Standard Deviation Ellipse (SDE)
 3. Gravity Model
 4. Clustering
    - DBSCAN
